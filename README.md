@@ -165,26 +165,5 @@ npm run build
 
 ---
 
-## 🎨 Design Reference
-
-Inspired by [Brittany Chiang's portfolio](https://brittanychiang.com) — adapted with personal branding, impact metrics, and blog functionality.
-
-**Color Palette:**
-- Background: `#0a192f` (Navy)
-- Card bg: `#112240` (Navy Light)
-- Accent: `#64ffda` (Green)
-- Text: `#ccd6f6` (Slate Light)
-- Subtext: `#8892b0` (Slate)
-
----
-
-## 🔮 Upcoming
-
-- [ ] Add personal resume PDF
-- [ ] Replace AnonShield with next project
-- [ ] Add blog posts
-- [ ] Custom domain
-
----
 
 Made with ❤️ by **Soni Gupta** — Lucknow, India
